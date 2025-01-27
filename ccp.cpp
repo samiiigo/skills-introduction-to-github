@@ -5,7 +5,10 @@ int main() {
     std::cin>>x;
 
     std::cout << x << " says " << "Hello, " << x << "!" << std::endl;
+    std::cout << x << " says " << "Hello, " << x << "!" << std::endl;
     
+
+
 
     return 0;
 }
