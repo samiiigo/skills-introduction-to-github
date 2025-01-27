@@ -3,6 +3,8 @@
 int main() {
     std::string x;
     std::cin>>x;
-    std::cout << "Hello, " << x << "!" << std::endl;
+
+    std::cout << x << " says " << "Hello, " << x << "!" << std::endl;
+
     return 0;
 }
